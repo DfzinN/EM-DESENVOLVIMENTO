@@ -1,0 +1,1 @@
+[null,{"name":"Bot Join Server","temp":"","event-type":"4","_id":"YRDOC","actions":[{"server":"0","varName":"","info":"4","storage":"1","varName2":"região","name":"Store Server Info"},{"server":"0","varName":"","dataName":"Regição","controlType":"0","value":"'${tempVars(\"região\")}'","name":"Control Firebase Server Data"}]}]
